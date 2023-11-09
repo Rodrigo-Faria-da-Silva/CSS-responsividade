@@ -2,3 +2,5 @@
 <br>
 <br>
 <h2>Esse foi um projeto sobre responssividade que apredi no <a href="https://rodolfomori.com.br/devclub">Devclub</a></h2>
+
+<img src="https://github.com/Rodrigo-Faria-da-Silva/CSS-responsividade/blob/main/assets/desktop%20readme.png?raw=true"/>
